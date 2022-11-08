@@ -1,3 +1,5 @@
+using System;
+
 namespace CleanArchitecture.Application.Services.Authentication;
 
 public record AuthenticationResult (
