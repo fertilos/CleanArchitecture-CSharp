@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanArchitecture.Api/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0",
+          "CleanArchitecture.Contracts": "1.0.0",
+          "CleanArchitecture.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Api.dll": {}
+        }
+      },
+      "CleanArchitecture.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Contracts": "1.0.0",
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Contracts/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Contracts.dll": {}
+        }
+      },
+      "CleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Domain.dll": {}
+        }
+      },
+      "CleanArchitecture.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Application": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitecture.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
