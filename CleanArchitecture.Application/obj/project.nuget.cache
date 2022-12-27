@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VsngP3vETtokJgCfhgkL7s5xOmJ4XCROo/aNxrdds0Du1a9gE/iaZQ2pwEX25SPWGXUc0O1yOn9IAi9gHtQBoQ==",
+  "dgSpecHash": "baXY64oQlGnXtW9y5l4r5FMxw8VJ+W6D8r6JnvQpPJZGj0TT8SvrQ74ZVT4AW9d1QiO2M0DXQaA8SNj1Uj67sw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fpt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.0.0\\microsoft.extensions.dependencyinjection.abstractions.1.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
+    "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,17 +27,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj": {
-                "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj"
+              "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj": {
+                "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj"
               },
-              "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -63,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj": {
+    "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj",
         "projectName": "CleanArchitecture.Contracts",
-        "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj",
+        "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj",
         "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -99,7 +101,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -122,7 +125,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -131,18 +135,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\fpt\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -158,7 +162,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -181,7 +186,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -190,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

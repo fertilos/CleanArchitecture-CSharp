@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "412RhjqYKeCc8FhNaALLxYTWUOus+0cAwm/fnlUEVF5Hz8xDad4BHq1miJflMAIroSqmEgpY0SX2uJIBPvOAqQ==",
+  "dgSpecHash": "m0EhWOQvdAYQQQ0Qe1dJhkufATDTQJMMHTYv96P9+kWMX91n9QJMyVdCK+24iIhGl3X1JuBuybbD2fsLtD9FDg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fpt\\source\\repos\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\fpt\\source\\repos\\CleanArchitecture-CSharp\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
